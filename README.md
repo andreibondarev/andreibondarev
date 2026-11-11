@@ -2,9 +2,9 @@
 
 **Projects**
 
-👕 [NerdsAndThreads.com](https://nerdsandthreads.com): a t-shirt store run by AI agents
+<img src="nerdsandthreads.png" width="16" height="16" alt="" align="top"> [NerdsAndThreads.com](https://nerdsandthreads.com): a t-shirt store run by AI agents
 
-🏟️ [InTheArena.live](https://inthearena.live): add an #InTheArena ring to your profile photo, for builders who ship and fail in public
+<img src="inthearena.png" width="16" height="16" alt="" align="top"> [InTheArena.live](https://inthearena.live): add an #InTheArena ring to your profile photo, for builders who ship and fail in public
 
 🔥 [ItsCooked.xyz](https://itscooked.xyz): put yourself into trending videos and movie scenes with AI
 
