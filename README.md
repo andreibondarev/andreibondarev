@@ -8,4 +8,6 @@
 
 🔥 [ItsCooked.xyz](https://itscooked.xyz): put yourself into trending videos and movie scenes with AI
 
+<img src="healthcare-transparency-project.svg" width="16" height="16" alt="" align="top"> [HealthcareTransparencyProject.org](https://healthcaretransparencyproject.org): explore public U.S. healthcare data, from who owns hospitals and plans to what they charge and what Medicare and Medicaid pay
+
 ...
