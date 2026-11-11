@@ -10,4 +10,6 @@
 
 <img src="healthcare-transparency-project.svg" width="16" height="16" alt="" align="top"> [HealthcareTransparencyProject.org](https://healthcaretransparencyproject.org): explore public U.S. healthcare data, from who owns hospitals and plans to what they charge and what Medicare and Medicaid pay
 
+<img src="classicfps.svg" width="16" height="16" alt="" align="top"> [ClassicFPS.app](https://classicfps.app): a classic 5v5 bomb-defusal shooter that runs in your browser, no install and no account
+
 ...
