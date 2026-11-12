@@ -12,4 +12,6 @@
 
 <img src="classicfps.svg" width="16" height="16" alt="" align="top"> [ClassicFPS.app](https://classicfps.app): a classic 5v5 bomb-defusal shooter that runs in your browser, no install and no account
 
+<img src="reflectiv.svg" width="16" height="16" alt="" align="top"> [Reflectiv.to](https://reflectiv.to): an AI team for your business on Mac and web, where agents do the work and you keep the judgement
+
 ...
